@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplp17.a CMakeFiles/plp17.dir/plp17.cpp.o
+/usr/bin/ranlib libplp17.a
